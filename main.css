@@ -1,0 +1,16 @@
+body {
+    max-height: 100vh;
+    overflow: hidden;
+}
+
+div#touch {
+    width: 608px;
+    height: 200px;
+    text-align: center;
+}
+
+div#touch img {
+    max-width: 200px;
+    max-height: auto;
+    margin-top: 30px;
+}
